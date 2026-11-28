@@ -75,6 +75,7 @@
 |------|------|:---:|
 | [CANON-001 · 영기 총량 회계](world/decisions/CANON-001_SPIRIT_ENERGY_ACCOUNTING.md) | 고정 경계 보존, 가용·관측량, 경계 확장·수축 및 경계간 교환의 미규명 상태 | ✅ |
 | [CANON-002 · 영문 설비 접근과 경지](world/decisions/CANON-002_SPIRIT_PATTERN_ACCESS.md) | 일상 보호 사용과 기술 행위의 구분, 설비 등급별 최저 경지 | ✅ |
+| [CANON-003 · 심상·생성·용과 이무기·문명사 단계](world/decisions/CANON-003_SIMSANG_GENERATION_DRAGON_ERA.md) | 심상 = 의지의 집합(영체·육체·의식핵의 상위 개념), 생성의 하한·파괴 처리, 용·이무기 결정 사항, 무협→선협→선협펑크 양식 축 | ✅ |
 
 > 공통 결정 문서는 해당 주제의 기존 종합 문서를 명확화한다. 표현이 충돌할 경우
 > 번호가 붙은 승인 결정이 우선하며, 각 결정의 "기존 문서와의 관계"를 함께 따른다.
