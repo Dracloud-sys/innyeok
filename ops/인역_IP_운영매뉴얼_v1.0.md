@@ -69,7 +69,7 @@ innyeok-canon/                    ← git 저장소
 │   │   ├── part2_cycles.md
 │   │   ├── part3_mobility.md
 │   │   ├── part4_logistics.md
-│   │   └── synthesis.md          ← 한 캐릭터 생애로 4파트 통합 (다음 작업 예정분)
+│   │   └── synthesis.md          ← 한 캐릭터 생애로 4파트 통합 (이관 완료, v1.1)
 │   ├── architecture.md           ← 건축·영기공학
 │   ├── cities.md                 ← 도시 설정
 │   ├── factions.md               ← 세력 설계
