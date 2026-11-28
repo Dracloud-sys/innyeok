@@ -43,6 +43,19 @@
 | [world/economy/part4_logistics.md](world/economy/part4_logistics.md) | 4부: 물류순환망 — 축령정 물류 (v1.1) | ✅ |
 | [world/economy/synthesis.md](world/economy/synthesis.md) | 종합편: 단일 캐릭터 생애 시뮬레이션 — 하란의 42년 (v1.1) | ✅ |
 
+## 공통 시각 규약 (visual/) — 승격 후보
+
+| 문서 | 내용 | 상태 |
+|------|------|:---:|
+| [visual/README.md](visual/README.md) | 범위·출처·표기, 작품별로 남긴 항목 | 후보 |
+| [visual/style.md](visual/style.md) | 선협펑크 화풍 (인물·배경 정리 수준, 한국식 선, 소품 치환) | 후보 |
+| [visual/spirit-energy.md](visual/spirit-energy.md) | 영기 시각 규약 (설비/생물 분리, 영기 색, 머티리얼 키) | 후보 |
+| [visual/erosion.md](visual/erosion.md) | 침식 표면 규약 | 후보 |
+| [visual/forbidden.md](visual/forbidden.md) | 근거 있는 금지 요소 (생성 도구 Negative Rules 기본값 후보) | 후보 |
+
+> 병합 시 각 문서의 **[공통 확정 대상]·[신규 제안]·[운영자 결정]** 항목이 캐논이 된다. **[미정]** 항목은
+> 병합해도 캐논이 아니다. C-008~C-010은 2026-11-28 운영자 결정으로 해결됐다.
+
 ## 인물 (characters/)
 
 | 문서 | 내용 | 상태 |
@@ -54,6 +67,7 @@
 | 문서 | 내용 | 상태 |
 |------|------|:---:|
 | [SOUL.md](SOUL.md) | IP 정체성·톤·주제·비노출 설계 원리 | ✅ |
+| [FAN_CREATION.md](FAN_CREATION.md) | 2차 창작 가이드라인 v0.1 초안 (모든 권리 보유 + 허용 범위) | 초안 |
 
 ## 승인된 공통 결정 (world/decisions/)
 
