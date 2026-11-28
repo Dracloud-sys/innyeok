@@ -166,7 +166,7 @@ innyeok-canon/                    ← git 저장소
 | `game-character-creator` | characters, factions, cultivation |
 
 각 SKILL.md 상단에 다음 지시문 삽입 권장:
-> "생성 전 반드시 innyeok-canon/CANON.md를 조회하고, 신설정이 필요하면 확정하지 말고 캐논 승격 후보로 표시할 것."
+> "생성 전 반드시 innyeok-canon/CANON.md를 조회하고, 공통 캐논을 바꾸는 신설정은 확정하지 말고 캐논 승격 후보로 표시할 것. 작품 안의 새 인물·장소·장비 등은 6대 법칙 안에서 자유롭게 만든다(SOUL.md §7-5)."
 
 ---
 
